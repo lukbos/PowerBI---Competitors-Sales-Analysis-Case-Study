@@ -78,5 +78,7 @@ Data modeling played a crucial role in establishing connections between tables.
 #### PowerBI Dashboards
 
 <img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/93506b7b-95b0-442b-b9c5-978f6d756e72" style="width:1000px;"/>
+<br/>
+<br/>
 <img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/6ca682f3-a4fc-4eaa-8d45-ffbe10909d65" style="width:1000px;"/>
 
