@@ -4,7 +4,7 @@
 <img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/9fc4117a-66d9-4e9f-bcb4-90bbe03954a0" style="width:100px;"/> x
 <img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/bb546968-c01c-4344-a204-65a164f0e699" style="width:100px;height:100px;"/>
 
-Check out the PowerBI tools I used: [PowerBI-Tools-Used](/PowerBI-Tools-Used.md/)
+*Check out the PowerBI tools I used: [PowerBI-Tools-Used](/PowerBI-Tools-Used.md/)*
 
 This document showcases a comprehensive competitor sales analysis project completed in Power BI. The analysis focused on Sintec's performance against competitors in the USA and internationally.
 
