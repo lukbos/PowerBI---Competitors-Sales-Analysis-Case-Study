@@ -1,0 +1,48 @@
+### Tools I used in PowerBI to achieve critical tasks:
+
+- **Load Data into PowerBI:**
+  - Connected to the 'international sales' folder via New Source > More > Folder
+
+- **Transform Data in Power Query Editor:**
+  - Filled null values
+  - Changed data types
+  - Split columns
+- **Data Modeling:**
+  - Established relationships between tables
+  - Created calculated columns to combine values for unique keys
+- **Analysis and Insights:**
+  - Used DAX calculations and measures
+- **Visualization and Storytelling:**
+  - Utilized Bookmarks and the Spotlight feature
+  - Created smart visuals, a decomposition tree, and key influencers visuals
+- **Sharing and Presentation:**
+  - Shared significant insights with stakeholders
+  - Applied theme and formatting using JSON file
+**Testing and Validation:**
+  - Tested DAX calculations
+- **Further Data Analysis:**
+  - Created hierarchies for Category, Segment, and Products
+- **Advanced Features:**
+  - Utilized the Q&A feature
+- **Performance Optimization:**
+  - Filtered data for specific years
+  - Disabled unnecessary tables for performance
+- **Data Cleaning and Preparation:**
+  - Removed unnecessary columns
+  - Filled null values in specific columns
+- **Data Combination and Transformation:**
+  - Appended International Sales table
+- **Visual Enhancements:**
+  - Added data labels and zoom slider
+- **Market Analysis:**
+  - Calculated Sintec market share and presented it with a scorecard
+- **Calculations and Comparisons:**
+  - Calculated revenue percentages, growth percentages, and revenue comparisons
+- **Interactive Features:**
+  - Created slicers for filtering data
+- **Report Creation:**
+  - Added report titles and backgrounds to complete the theme
+- **Final Steps:**
+  - Shared the completed analysis
+- **Documentation:**
+  - Updated pages, added card metrics, and created a bookmark navigator
