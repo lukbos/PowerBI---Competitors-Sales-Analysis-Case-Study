@@ -61,6 +61,15 @@ Data modeling played a crucial role in establishing connections between tables.
 * Category hierarchies were created within the product table for deeper analysis.
 * A gauge visualized total revenue with year-over-year growth.
 
+*e.g. creating measures*
+<br/>
+<img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/84678874-66ba-406f-9e09-7b93a45257e8" style="width:800px;"/>
+<br/>
+*and the subsequent visuals*
+<br/>
+<img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/45899197-7400-489b-b5e1-781cff049618" style="width:800px;"/>
+
+
 ### Sharing Market Analysis
 * Sintec held a 38.22% market share in the USA.
 * Sintec achieved the highest growth rate (18.8%) in 2021 compared to the previous year.
@@ -68,6 +77,6 @@ Data modeling played a crucial role in establishing connections between tables.
 
 #### PowerBI Dashboards
 
-![Sintec 1](https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/93506b7b-95b0-442b-b9c5-978f6d756e72)
-![Sintec 2](https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/6ca682f3-a4fc-4eaa-8d45-ffbe10909d65)
+<img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/93506b7b-95b0-442b-b9c5-978f6d756e72" style="width:1000px;"/>
+<img src="https://github.com/lukbos/PowerBI-Competitors-Sales-Analysis/assets/97811417/6ca682f3-a4fc-4eaa-8d45-ffbe10909d65" style="width:1000px;"/>
 
