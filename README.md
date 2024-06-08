@@ -6,7 +6,7 @@
 
 This document showcases a comprehensive competitor sales analysis project completed in Power BI. The analysis focused on Sintec's performance against competitors in the USA and internationally.
 
-*Check out the PowerBI tools I used: [PowerBI-Tools-Used](/PowerBI-Tools-Used.md/)*
+*Check out the PowerBI tools I used [here](/PowerBI-Tools-Used.md/)*
 
 ### Data Exploration and Transformation
 
